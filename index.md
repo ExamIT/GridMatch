@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## GridMatch: A fun matching game
 
-You can use the [editor on GitHub](https://github.com/ExamIT/GridMatch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Our Goal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+..is to be a fun game you can play whenever you are bored. ( On your commute / the office / or on your toilet )
 
-### Markdown
+- You can play solo in an endless mode that gets more difficult the further you get.
+- Play agains friends via Game Center.
+- Earn coins to purchase power ups. (no real money accepted!)
+- Compete in leaderboards and gather achievements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+"GridMatch: A fun matching game" does not collect any data.
 
-- Bulleted
-- List
+GridMatch handles your content on your device and in your personal iCloud. 
+*For the privacy policy of iCloud please check up with Apple.*
 
-1. Numbered
-2. List
+The app will otherwise not collect any information about you.
 
-**Bold** and _Italic_ and `Code` text
+All purchases will be handled by Apple. Therefore Apple will collect these informations on their servers.
 
-[Link](url) and ![Image](src)
-```
+If you have any Questions please contact us!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExamIT/GridMatch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any Feedback? Contact us directly at GridMatch@outlook.com. We are happy to hear from you!
